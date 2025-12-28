@@ -1,0 +1,20 @@
+﻿[
+  {
+    "id": "tehran",
+    "nameFa": "تهران",
+    "capital": {
+      "nameFa": "تهران",
+      "lat": 35.6892,
+      "lon": 51.3890
+    }
+  },
+  {
+    "id": "isfahan",
+    "nameFa": "اصفهان",
+    "capital": {
+      "nameFa": "اصفهان",
+      "lat": 32.6546,
+      "lon": 51.6680
+    }
+  }
+]

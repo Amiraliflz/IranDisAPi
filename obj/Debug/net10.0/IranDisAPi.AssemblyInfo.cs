@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IranDisAPi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+66e2a92482f6e3d21aefcba0330bcbc18be07696")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8ea7068c01eba4823117e75f2b841fae5b832ce2")]
 [assembly: System.Reflection.AssemblyProductAttribute("IranDisAPi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IranDisAPi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

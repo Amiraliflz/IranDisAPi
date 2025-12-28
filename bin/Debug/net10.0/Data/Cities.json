@@ -1,0 +1,31 @@
+﻿[
+  {
+    "id": "tehran_city",
+    "provinceId": "tehran",
+    "nameFa": "تهران",
+    "lat": 35.6892,
+    "lon": 51.3890
+  },
+  {
+    "id": "damavand",
+    "provinceId": "tehran",
+    "nameFa": "دماوند",
+    "lat": 35.7189,
+    "lon": 52.0696
+  },
+
+  {
+    "id": "isfahan_city",
+    "provinceId": "isfahan",
+    "nameFa": "اصفهان",
+    "lat": 32.6546,
+    "lon": 51.6680
+  },
+  {
+    "id": "tariq_rud",
+    "provinceId": "isfahan",
+    "nameFa": "طریق رود",
+    "lat": 32.0000,
+    "lon": 51.9000
+  }
+]
